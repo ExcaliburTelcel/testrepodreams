@@ -1,0 +1,3 @@
+19:07:09 ../../connectclients/libpolar2/src/polar/pwr_mgt/driver3_iokit.cpp@102 virtual void polar::pwr_mgt::driver::resume(): Drivers are being resumed.
+19:07:09 ../../connectclients/libpolar2/src/polar/usb/usb_cdc_acm_driver_iokit.cpp@127 void polar::usb::cdc_acm_driver::appeared(uint64_t, io_registry_entry_t): NEW CDC ACM device appeared
+20:10:22 ../../connectclients/libpolar2/src/polar/pwr_mgt/driver3_iokit.cpp@96 virtual void polar::pwr_mgt::driver::suspend(): Drivers are being suspended.
